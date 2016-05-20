@@ -28,9 +28,8 @@
 
 /* Exercise 1 Part 2 */
 #complicated-setup {
-    margin: 0 auto;
     display: block;
-    width: 100%;
+    width: 400px;
 }
 
 .label-2 {
@@ -45,11 +44,50 @@
 .input-2 {
     display: inline-block;
     float: none;
-    width: auto;
+    width: 200px;
     margin: 5px 0 0 10px;
-    padding: 5px 5px;
+    padding: 5px;
     border-radius: 5px;
 }
-}
+
+#city-state {
+    margin-left: 75px;
+    margin-right: 5px;
+    margin-top: 5px;
 }
 
+#city {
+    margin-right: 10px;
+}
+
+#city1 {
+    width: 120px;
+    border-radius: 5px;
+    height: 25px;
+}
+
+#state {
+    margin-left: 10px;
+}
+
+#state1 {
+    width: 25px;
+    border-radius: 5px;
+    height: 25px;
+}
+
+#sign-up {
+    width: 400px;
+    margin-top: 10px;
+}
+
+input[type="checkbox"] {
+    width: 110px;
+    margin-left: 100px;
+    margin-right: -85px;
+}
+
+input[type="submit"] {
+    margin-left: 103px;
+    width: 226px;
+}
