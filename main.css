@@ -1,0 +1,55 @@
+/* ADD YOUR STYLES HERE */
+
+/* Exercise 1 Part 1 */
+#simple-signup {
+    margin: 0 auto;
+    display: block;
+    width: 100%;
+}
+
+.label {
+    display: inline-block; 
+    float: none;
+    width: 150px;
+    padding: 0;
+    margin: 5px 0 0;
+    text-align: right;
+}
+
+.input {
+    display: inline-block;
+    float: none;
+    width:auto;
+    margin:5px 0 0 10px; 
+    padding:5px 5px;
+    border-radius: 5px;
+}
+
+
+/* Exercise 1 Part 2 */
+#complicated-setup {
+    margin: 0 auto;
+    display: block;
+    width: 100%;
+}
+
+.label-2 {
+    display: inline-block;
+    float: none;
+    width: 100px;
+    padding: 0;
+    margin: 5px 0 0;
+    text-align: right;
+}
+
+.input-2 {
+    display: inline-block;
+    float: none;
+    width: auto;
+    margin: 5px 0 0 10px;
+    padding: 5px 5px;
+    border-radius: 5px;
+}
+}
+}
+
